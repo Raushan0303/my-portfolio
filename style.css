@@ -57,7 +57,7 @@ nav :hover{
   flex-direction: column;
   justify-content: flex-end; /* Align content to the bottom of the container */
   text-align: center;
-  background-image: url(/html/mywebsiteimg3.jpg);
+  background-image: url(mywebsiteimg3.jpg);
   padding: 1px;
   height: 800px;
   background-size: cover;
